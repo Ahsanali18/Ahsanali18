@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahsan Ali</h1>
 <h3 align="center">A passionate C++ developer from Pakistan</h3>
-<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<img alt="Coder GIF" height=250 width=350 src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif />
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsanali18&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanali18" /> </p>
