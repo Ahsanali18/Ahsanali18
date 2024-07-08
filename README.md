@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahsan Ali</h1>
 <h3 align="center">A passionate Java developer from Pakistan</h3>
-<img alt="Coder GIF" height=250 width=350 src=https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif />
+<div align="center">
+  <img alt="Coder GIF" height="250" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+</div>
 <br>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsanali18&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanali18" /> </p>
 
 - 🔭 I’m currently working on **mastering Java and exploring opportunities to apply my skills in real-world projects.**
