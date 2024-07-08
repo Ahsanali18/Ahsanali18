@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **mastering Java and exploring opportunities to apply my skills in real-world projects.**
 
-- 🌱 I’m currently learning **Advance Data Structures & Algorithm concepts, Exploring algorithms, Java programming language**
+- 🌱 I’m currently learning **Data Structures & Algorithm concepts, Exploring algorithms, Java programming language**
 
 - 👯 I’m looking to collaborate on **impactful Java projects that push the boundaries of innovation and problem-solving.**
 
