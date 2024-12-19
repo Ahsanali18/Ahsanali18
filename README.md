@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Fellow+Geeks!+👋;">
 <img width="15%" align="right" alt="Github" src="https://github.com/avinIndrasoma/avinIndrasoma/blob/main/749044136589393960.gif" />
 </h1>
-<h2 align="center">My Name is Ahsan Ali, A passionate Software Developer from Pakistan</h2>
+<h3 align="center">My Name is Ahsan Ali, A passionate Software Developer from Pakistan</h3>
 <div align="center">
   <img alt="Coder GIF" height="250" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 </div>
