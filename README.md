@@ -7,7 +7,7 @@
   <img alt="Coder GIF" height="250" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsanali18&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanali18" /> </p>
-<h2> About Me </h2>
+<h2> About Me <img src="https://github.com/avincodes/avincodes/blob/main/discord-wumpus-pack-discord-nitro.gif" width="20px" alt="Smiley Face"> </h2>
 
 - 🔭 I’m currently working on **mastering Java and exploring opportunities to apply my skills in real-world projects.**
 
