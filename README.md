@@ -9,11 +9,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsanali18&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanali18" /> </p>
 <h2> About Me <img src="https://github.com/avincodes/avincodes/blob/main/discord-wumpus-pack-discord-nitro.gif" width="20px" alt="Smiley Face"> </h2>
 
-- 🔭 I’m currently working on **mastering python and exploring opportunities to apply my skills in real-world projects.**
+- 🧠 I’m currently focused on **mastering Python and exploring opportunities to apply my skills in real-world projects.**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I'm exploring the field of **Data Science — from data cleaning to visualization and insights.**
 
-- 👯 I’m looking to collaborate on **impactful Python projects that push the boundaries of innovation and problem-solving.**
+- 👯 I’m looking to collaborate on **impactful Python-based projects that involve problem-solving, data, or automation.**
 
 - 💬 Ask me about **Python || Java || C++ || HTML || CSS || SQL || Networking**
 
