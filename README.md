@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **impactful Python projects that push the boundaries of innovation and problem-solving.**
 
-- 💬 Ask me about **Python || Java || C++ || HTML || CSS || COMPUTER NETWORKING**
+- 💬 Ask me about **Python || Java || C++ || HTML || CSS || SQL || Networking**
 
 - 📫 Contact me at **ahsanali4180@gmail.com**
 
