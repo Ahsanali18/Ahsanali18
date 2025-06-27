@@ -11,7 +11,7 @@
 
 - 🧠 I’m currently focused on **mastering Python and exploring opportunities to apply my skills in real-world projects.**
 
-- 🌱 I'm exploring the field of **Data Science — from data cleaning to visualization and insights.**
+- 📊 I'm exploring the field of **Data Science — from data cleaning to visualization and insights.**
 
 - 👯 I’m looking to collaborate on **impactful Python-based projects that involve problem-solving, data, or automation.**
 
