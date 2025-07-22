@@ -1,12 +1,19 @@
+<!-- Floating GitHub emoji image at the top-right -->
+<div align="right">
+  <img width="15%" alt="Github" src="https://github.com/avinIndrasoma/avinIndrasoma/blob/main/749044136589393960.gif" />
+</div>
+
+<!-- Centered greeting -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Fellow+Geeks!+👋;" />
-  <img width="15%" align="right" alt="Github" src="https://github.com/avinIndrasoma/avinIndrasoma/blob/main/749044136589393960.gif" />
 </h1>
 
+<!-- Coder image -->
 <div align="center">
   <img alt="Coder GIF" height="250" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 </div>
 
+<!-- Centered typing intro -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=80&lines=I'm+Ahsan+Ali;Software+Developer;Data+Scientist;Tech+Enthusiast;Lifelong+Learner;From+Pakistan" />
 </div>
