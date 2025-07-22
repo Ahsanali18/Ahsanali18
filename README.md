@@ -27,6 +27,8 @@
 <p align="left">
 <a href="https://twitter.com/ahsana86529" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahsana86529" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahsan-ali-5a53ba2a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahsan-ali-5a53ba2a7/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22818266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22818266" height="30" width="40" /></a>
+<a href="https://kaggle.com/ahsanli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahsanli" height="30" width="40" /></a>
 <a href="https://instagram.com/ahsan_ali8140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahsan_ali8140" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/let's play coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="let's play coding" height="30" width="40" /></a>
 </p>
