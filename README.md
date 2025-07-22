@@ -3,7 +3,7 @@
   <img width="15%" align="right" alt="Github" src="https://github.com/avinIndrasoma/avinIndrasoma/blob/main/749044136589393960.gif" />
 </h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=I'm+a+Coder;I'm+a+Data+Scientist;I'm+Ahsan+Ali;A+passionate+Software+Developer+from+Pakistan" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=I'm+a+Coder;I'm+a+Data+Scientist;I'm+Ahsan+Ali;A+passionate+Software+Developer+from+Pakistan" />
 </h3>
 <div align="center">
   <img alt="Coder GIF" height="250" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
