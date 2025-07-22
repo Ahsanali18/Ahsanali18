@@ -1,11 +1,8 @@
-<!-- Floating GitHub emoji image at the top-right -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Fellow+Geeks!+👋;" />
 <div align="right">
   <img width="15%" alt="Github" src="https://github.com/avinIndrasoma/avinIndrasoma/blob/main/749044136589393960.gif" />
 </div>
-
-<!-- Centered greeting -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Fellow+Geeks!+👋;" />
 </h1>
 
 <!-- Coder image -->
