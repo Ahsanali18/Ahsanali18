@@ -31,6 +31,8 @@
 <a href="https://kaggle.com/ahsanli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahsanli" height="30" width="40" /></a>
 <a href="https://instagram.com/ahsan_ali8140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahsan_ali8140" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/let's play coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="let's play coding" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ahsan1819114ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ahsan1819114ali" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/ahsan_18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ahsan_18/" height="30" width="40" /></a>
 </p>
 
 <h2> Profile Stats  <img width ='18px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </h2>
@@ -40,3 +42,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahsanali18&show_icons=true&locale=en" alt="ahsanali18" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanali18&" alt="ahsanali18" /></p>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/ahsanali18"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ahsanali18" /></a></p><br><br>
