@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Fellow+Geeks!+👋;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Fellow+Geeks!+👋;" />
   <img width="15%" align="right" alt="Github" src="https://github.com/avinIndrasoma/avinIndrasoma/blob/main/749044136589393960.gif" />
 </h1>
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=80&lines=I'm+Ahsan+Ali;Software+Developer+💻;Data+Scientist+📊;Tech+Enthusiast+🚀;Lifelong+Learner+📚;From+Pakistan+🇵🇰" />
-</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=80&lines=I'm+Ahsan+Ali;Software+Developer;Data+Scientist;Tech+Enthusiast;Lifelong+Learner;From+Pakistan" />
+</div>
 
 </h3>
 <div align="center">
