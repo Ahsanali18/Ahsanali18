@@ -5,10 +5,10 @@
 
 <!-- Coder image -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&height=80&lines=I'm+Ahsan+Ali;Software+Developer;Data+Scientist;Tech+Enthusiast;Lifelong+Learner;From+Pakistan" />
+  <img alt="Coder GIF" height="250" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 </div>
 <div align="center">
-  <img alt="Coder GIF" height="250" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&height=80&lines=I'm+Ahsan+Ali;Software+Developer;Data+Scientist;Tech+Enthusiast;Lifelong+Learner;From+Pakistan" />
 </div>
 
 <!-- Centered typing intro -->
