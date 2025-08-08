@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Fellow+Geeks!+👋;" />
   <img width="15%" align="right" alt="Github" src="https://github.com/avinIndrasoma/avinIndrasoma/blob/main/749044136589393960.gif" />
 </h1>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&height=80&lines=I'm+Ahsan+Ali;Software+Developer;Data+Scientist;Tech+Enthusiast;Lifelong+Learner;From+Pakistan" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0000FF&center=true&vCenter=true&random=false&width=1000&height=80&lines=I'm+Ahsan+Ali;Software+Developer;Data+Scientist;Tech+Enthusiast;Lifelong+Learner;From+Pakistan" alt="Typing SVG" />
+</p>
 <!-- Coder image -->
 <div align="center">
   <img alt="Coder GIF" height="250" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
